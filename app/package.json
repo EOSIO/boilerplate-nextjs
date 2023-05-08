@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@material-ui/core": "^4.9.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "eosjs": "^20.0.3",
     "isomorphic-unfetch": "^3.0.0",
     "next": "latest",
